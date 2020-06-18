@@ -1,0 +1,3 @@
+# Exercise:
+
+Change the color of all elements with the class "colortext", to "red".
